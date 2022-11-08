@@ -18,6 +18,7 @@ module.exports = {
 			arrowFunction: false,
 		}
 	},
+	mode: "development",
 	// 打包时要用到的模块
 	module: {
 		rules: [
